@@ -4,3 +4,7 @@
 # sample video
 https://drive.google.com/file/d/1uz05ID3zB6bBC0UYq8QIIobrfNSQqagy/view?usp=sharing
 
+# credentials
+pn 1111
+dk 2222
+
